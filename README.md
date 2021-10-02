@@ -1,4 +1,4 @@
-# Angular Cards
+# Angular Credit Card
 Projeto de estudo com base no curso The Modern Angular Bootcamp
 
 ## 🚀 Começando
